@@ -1,0 +1,24 @@
+{
+  "name": "elementary-electron",
+  "version": "1.0.0",
+  "description": "_*Daniel Paul Grech Pereira*_",
+  "main": "app.js",
+  "dependencies": {
+    "cat-picture": "^5.1.2",
+    "elementary-electron": "^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pereiradaniel/elementary-electron.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pereiradaniel/elementary-electron/issues"
+  },
+  "homepage": "https://github.com/pereiradaniel/elementary-electron#readme"
+}
