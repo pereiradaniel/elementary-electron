@@ -4,6 +4,7 @@
   "description": "_*Daniel Paul Grech Pereira*_",
   "main": "app.js",
   "dependencies": {
+    "cat-picture": "^5.1.2",
     "elementary-electron": "^1.5.0"
   },
   "devDependencies": {},
