@@ -1,1 +1,1 @@
-require('cat-picture')
+var picture = require('cat-picture')
