@@ -5,7 +5,8 @@
   "main": "app.js",
   "dependencies": {
     "cat-picture": "^5.1.2",
-    "elementary-electron": "^1.5.0"
+    "elementary-electron": "^1.5.0",
+    "lightning-image-poly": "0.0.10"
   },
   "devDependencies": {},
   "scripts": {
