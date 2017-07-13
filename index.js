@@ -14,6 +14,10 @@ function save () {
   })
 }
 
+window.addEventListener('keydown', function (e) {
+  if (e.keyCode == 80) save()
+})
+
 var src = picture.src
 picture.remove()
 
